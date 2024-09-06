@@ -33,7 +33,7 @@ min-height: 100vh;
 
 .glass {
     background:white ;
-    min-height:80vh;
+    min-height:60vh;
     width: 60%;
     background: linear-gradient(to right bottom , rgba(255, 246, 246, 0.884),rgba(225, 225, 225, 0.397)  );
     border-radius: 2rem;
